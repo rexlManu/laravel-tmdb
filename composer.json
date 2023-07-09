@@ -1,5 +1,5 @@
 {
-    "name": "chiiya/laravel-tmdb",
+    "name": "rexlmanu/laravel-tmdb",
     "description": "Laravel SDK for the TMDB API",
     "keywords": [
         "chiiya",
@@ -20,7 +20,7 @@
     "require": {
         "php": "^8.1",
         "chiiya/tmdb-php": "^0.2",
-        "illuminate/contracts": "^9.0",
+        "illuminate/contracts": "^10.0",
         "spatie/laravel-package-tools": "^1.11"
     },
     "require-dev": {
